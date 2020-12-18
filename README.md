@@ -11,6 +11,7 @@ EFI for ASUS N551JK with OpenCore bootloader
 | ---------------- | ---------------------------------- |
 | CPU              | Intel i7 4710HQ                    |
 | iGPU             | Intel® HD Graphics 4600            |
+| dGPU             | nVidia GeForce GTX 850M (DISABLED) |
 | Lan              | Realtek 8111                       |
 | Audio            | Realtek ALC668                     |
 | Ram              | 16 GB                              |
@@ -46,7 +47,7 @@ EFI for ASUS N551JK with OpenCore bootloader
 - [x] Recovery (macOS) boot from OpenCore
 - [x] Windows 10 boot from OpenCore
 
-
+## Infos
 
 ## Credits
 
