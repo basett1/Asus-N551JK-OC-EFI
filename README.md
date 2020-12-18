@@ -2,7 +2,7 @@
 Big Sur - Opencore EFI for Asus N551JK 
 
 
-EFI for ASUS N551JK with OpenCore bootloader
+EFI for ASUS N551JK with OpenCore bootloader 0.6.4
 
 
 ### Computer Spec:
@@ -48,6 +48,7 @@ EFI for ASUS N551JK with OpenCore bootloader
 - [x] Windows 10 boot from OpenCore
 
 ## Infos
+
 
 ## Credits
 
