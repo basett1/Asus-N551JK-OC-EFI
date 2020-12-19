@@ -19,7 +19,7 @@ EFI for ASUS N551JK with OpenCore bootloader 0.6.4
 | SmBios           | MacBookPro 11,2                    |
 | BootLoader       | OpenCore                           |
 
-# BIOS
+# BIOS SETTINGS
 # *BIOS VERSION 205*
 
 ## Advanced
