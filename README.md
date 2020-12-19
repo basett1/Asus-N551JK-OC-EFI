@@ -87,7 +87,7 @@ Secure boot control **[DISABLED]**
 - [x] ALC668 Combojack microphone
 - [x] ALC668 HDMI Audio Output
 - [x] ALC668 mDisplayPort Audio Output
-- [x] Sleep / Wake
+- [x] Sleep / Wake also with lid
 - [x] PS2 Touchpad with gesture
 - [x] Keyboard (PS2-Internal) with backlight
 - [x] F3 & F4 Backlight Key
