@@ -35,6 +35,7 @@ EFI for ASUS N551JK with OpenCore bootloader 0.6.4
 - [x] Sleep / Wake
 - [x] PS2 Touchpad with gesture
 - [x] Keyboard (PS2-Internal) with backlight
+- [x] F3 & F4 Backlight Key
 - [x] F5 & F6 Brightness Key
 - [x] F10 & F11 & F12 Sound Key
 - [x] Wi-Fi and Bluetooth BCM943602HMB Module
