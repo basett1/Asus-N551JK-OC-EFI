@@ -1,4 +1,4 @@
-# Asus-N551JK-OC-EFI
+# Asus N551JK OpenCore EFI
 Big Sur - Opencore EFI for Asus N551JK 
 
 
