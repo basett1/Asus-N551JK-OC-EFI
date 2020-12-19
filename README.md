@@ -60,14 +60,14 @@ Xhci pre boot mode **[SMART AUTO]**
 Network stack **[DISABLED]**
 
 
-#### BOOT
+#### Boot
 
 Launch CSM **[ENABLED]**
 
 Launch pxe oprom policy **[ENABLED]**
 
 
-#### SECURITY
+#### Security
 
 Secure boot menu
 
