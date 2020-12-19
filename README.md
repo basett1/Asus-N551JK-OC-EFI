@@ -22,7 +22,7 @@ EFI for ASUS N551JK with OpenCore bootloader 0.6.4
 # BIOS
 ### BIOS VERSION 205
 
-### Advanced
+#### Advanced
 
 Internal pointint device **[ENABLED]**
 
@@ -38,24 +38,24 @@ Intel aes-ni **[ENABLED]**
 Vt-d **[DISABLED]**
 
 
-Sata configuration
+#### Sata configuration
 
 SATA mode selection **[AHCI]**
 
 
-Graphics configuration
+#### Graphics configuration
 
 DMVT pre allocated **[128m]**
 
 
-Usb configuration
+#### Usb configuration
 
 Legacy USB support **[ENABLED]**
 
-xhci pre boot mode **[SMART AUTO]**
+Xhci pre boot mode **[SMART AUTO]**
 
 
-Network stack
+#### Network stack
 
 Network stack **[DISABLED]**
 
