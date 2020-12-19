@@ -20,9 +20,9 @@ EFI for ASUS N551JK with OpenCore bootloader 0.6.4
 | BootLoader       | OpenCore                           |
 
 # BIOS
-### BIOS VERSION 205
+# BIOS VERSION 205
 
-#### Advanced
+## Advanced
 
 Internal pointint device **[ENABLED]**
 
@@ -60,14 +60,14 @@ Xhci pre boot mode **[SMART AUTO]**
 Network stack **[DISABLED]**
 
 
-#### Boot
+## Boot
 
 Launch CSM **[ENABLED]**
 
 Launch pxe oprom policy **[ENABLED]**
 
 
-#### Security
+## Security
 
 Secure boot menu
 
