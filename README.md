@@ -1,11 +1,7 @@
 # Asus N551JK OpenCore EFI
 Big Sur - Opencore EFI for Asus N551JK 
 
-
 EFI for ASUS N551JK with OpenCore bootloader 0.6.4
-
-! [PC] (https://github.com/basett1/Asus-N551JK-OC-EFI/blob/main/Infos/AsusN551JK.jpg?raw=true)
-
 
 ### Computer Spec:
 
@@ -20,8 +16,6 @@ EFI for ASUS N551JK with OpenCore bootloader 0.6.4
 | Wifi + Bluetooth | BCM94360HMB                        |
 | SmBios           | MacBookPro 11,2                    |
 | BootLoader       | OpenCore                           |
-
-
 
 ### What works and What doesn't or WIP:
 
