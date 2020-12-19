@@ -101,7 +101,7 @@ Secure boot control **[DISABLED]**
 - [x] ACPI Battery
 - [x] NVRAM (Native)
 - [x] Recovery (macOS) boot from OpenCore
-- [x] Windows 10 boot from OpenCore
+- [ ] Windows 10 boot from OpenCore
 
 # Infos
 ![Info](https://user-images.githubusercontent.com/74409308/102687566-4aedff80-41f0-11eb-9ef0-f76423aff984.png)
