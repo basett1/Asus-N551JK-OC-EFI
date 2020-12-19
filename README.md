@@ -20,7 +20,7 @@ EFI for ASUS N551JK with OpenCore bootloader 0.6.4
 | BootLoader       | OpenCore                           |
 
 # BIOS
-# **BIOS VERSION 205**
+# BIOS VERSION 205
 
 ## Advanced
 
