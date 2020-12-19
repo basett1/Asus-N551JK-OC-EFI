@@ -93,7 +93,7 @@ Secure boot control **[DISABLED]**
 - [x] F3 & F4 Backlight Key
 - [x] F5 & F6 Brightness Key
 - [x] F10 & F11 & F12 Sound Key
-- [x] Wi-Fi and Bluetooth BCM943602HMB Module
+- [x] Wi-Fi and Bluetooth BCM94360HMB Module
 - [x] Realtek RTL811 LAN
 - [x] Micro SD Cardreader (USB-Internal)
 - [x] WebCam (USB-Internal)
