@@ -24,54 +24,54 @@ EFI for ASUS N551JK with OpenCore bootloader 0.6.4
 
 ### Advanced
 
-Internal pointint device *[ENABLED]*
+Internal pointint device **[ENABLED]**
 
-Wake on lid open [ENABLED]
+Wake on lid open **[ENABLED]**
 
-Power off Energy saving [DISABLED]
+Power off Energy saving **[DISABLED]**
 
 
-Intel virtualization technology [ENABLED]
+Intel virtualization technology **[ENABLED]**
 
-Intel aes-ni [ENABLED]
+Intel aes-ni **[ENABLED]**
 
-Vt-d [DISABLED]
+Vt-d **[DISABLED]**
 
 
 Sata configuration
 
-SATA mode selection [AHCI]
+SATA mode selection **[AHCI]**
 
 
 Graphics configuration
 
-DMVT pre allocated [128m]
+DMVT pre allocated **[128m]**
 
 
 Usb configuration
 
-Legacy USB support [ENABLED]
+Legacy USB support **[ENABLED]**
 
-xhci pre boot mode [SMART AUTO]
+xhci pre boot mode **[SMART AUTO]**
 
 
 Network stack
 
-Network stack [DISABLED]
+Network stack **[DISABLED]**
 
 
 ### BOOT
 
-Launch CSM [ENABLED]
+Launch CSM **[ENABLED]**
 
-Launch pxe oprom policy [ENABLED]
+Launch pxe oprom policy **[ENABLED]**
 
 
 ### SECURITY
 
 Secure boot menu
 
-Secure boot control [DISABLED]
+Secure boot control **[DISABLED]**
 
 
 
