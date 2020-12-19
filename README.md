@@ -49,7 +49,7 @@ EFI for ASUS N551JK with OpenCore bootloader 0.6.4
 - [x] Windows 10 boot from OpenCore
 
 ## Infos
-
+- See the [IOREG](https://github.com/basett1/Asus-N551JK-OC-EFI/blob/main/Infos/ANGELO’s%20MacBook%20Pro.ioreg)
 
 ## Credits
 
