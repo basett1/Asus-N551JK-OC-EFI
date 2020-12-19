@@ -24,7 +24,7 @@ EFI for ASUS N551JK with OpenCore bootloader 0.6.4
 
 ### Advanced
 
-Internal pointint device [ENABLED]
+Internal pointint device *[ENABLED]*
 
 Wake on lid open [ENABLED]
 
