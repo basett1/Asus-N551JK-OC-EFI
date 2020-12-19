@@ -76,7 +76,7 @@ Secure boot control **[DISABLED]**
 
 
 
-### What works and What doesn't or WIP:
+# What works and What doesn't or WIP:
 
 - [x] Intel HD GRAPHICS 4600 iGPU
 - [x] Intel HD GRAPHICS 4600 iGPU HDMI Output
