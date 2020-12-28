@@ -26,7 +26,9 @@ EFI for ASUS N551JK with OpenCore bootloader 0.6.4
 
 To disable cfg lock use the provided kit. THANKS TO [LORYS89](https://github.com/Lorys89) for the hints and the kit
 
-Declare tools in config.plist and run modGRUBShell.efi
+Declare tools in config.plist
+
+Reboot the system, when you are at Opencore run modGRUBShell.efi
 
 Type `setup_var 0x85`to interrogate, the result is `Offset 0x85 is: 0x01` this mean that the cfg is locked
 
