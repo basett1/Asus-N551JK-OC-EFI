@@ -30,11 +30,11 @@ Declare tools in config.plist
 
 Reboot the system, when you are at Opencore run modGRUBShell.efi
 
-Type `setup_var 0x85`to interrogate, the result is `Offset 0x85 is: 0x01` this mean that the cfg is locked
+Type `setup_var 0x85`to interrogate, the result is `Offset 0x85 is: 0x01` this mean that the cfg lock is enabled
 
-Then type `setup_var 0x85 0x00`to write, the result is `Offset 0x85 is: 0x01 setting offset 0x85 to 0x00` this mean that the cfg is setted to unlock
+Then type `setup_var 0x85 0x00`to write, the result is `Offset 0x85 is: 0x01 setting offset 0x85 to 0x00` this mean that the cfg lock is disabled
 
-Type `EXIT` to return to Opencore Bootloader, Reset nvram and use VerifyMsrE2.efi to check if the cfg is unlocked.
+Type `EXIT` to return to Opencore Bootloader, Reset nvram and use VerifyMsrE2.efi to check if the cfg lock is disabled.
 
 ## Advanced
 
