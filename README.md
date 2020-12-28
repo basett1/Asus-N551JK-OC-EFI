@@ -24,7 +24,11 @@ EFI for ASUS N551JK with OpenCore bootloader 0.6.4
 
 ## Disable cfg lock
 
-To disable cfg lock use the provided kit. THANKS TO [LORYS89](https://github.com/Lorys89) for the hints and the kit
+To disable cfg lock use the provided kit.
+
+In the folder is provided a dump of BIOS 205 version for references. 
+
+**THANKS TO [LORYS89](https://github.com/Lorys89) for the hints and the kit**
 
 Declare tools in config.plist
 
