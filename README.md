@@ -1,7 +1,7 @@
 # Asus N551JK OpenCore EFI
 Big Sur - Opencore EFI for Asus N551JK 
 
-EFI for ASUS N551JK with OpenCore bootloader 0.6.4
+EFI for ASUS N551JK with OpenCore bootloader 0.6.6
 
 ![AsusN551JK](https://user-images.githubusercontent.com/74409308/102687569-4cb7c300-41f0-11eb-9504-3aea777014af.jpg)
 
@@ -132,6 +132,7 @@ Secure boot control **[DISABLED]**
 - [Apple](https://apple.com) for macOS.
 - [Acidanthera](https://github.com/acidanthera) for OpenCore and all the lovely hackintosh work.
 - [Dortania](https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/icelake.html) For great and detailed guides.
+- [SPEEEDO83](https://github.com/Speeedo83) For the theme.
 - [Hackintoshlifeit](https://github.com/Hackintoshlifeit) Support group for installation and post installation.
 
 # If you need help please contact us on [Telegram](https://t.me/HackintoshLife_it) or [Web](https://www.hackintoshlife.it/)
