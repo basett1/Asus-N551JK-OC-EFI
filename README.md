@@ -116,7 +116,7 @@ Secure boot control **[DISABLED]**
 - [x] ALC668 Internal Speakers
 - [x] ALC668 Internal microphone
 - [x] ALC668 Combojack headphones
-- [x] ALC668 Combojack microphone
+- [ ] ALC668 Combojack microphone
 - [x] ALC668 HDMI Audio Output
 - [x] ALC668 mDisplayPort Audio Output
 - [x] Sleep / Wake also with lid
@@ -127,7 +127,7 @@ Secure boot control **[DISABLED]**
 - [x] F10 & F11 & F12 Sound Key
 - [x] Wi-Fi and Bluetooth BCM94360HMB Module
 - [x] Realtek RTL811 LAN
-- [x] Micro SD Cardreader (USB-Internal)
+- [ ] Micro SD Cardreader (USB-Internal)
 - [x] WebCam (USB-Internal)
 - [x] All Sensors CPU, IGPU, BATTERY, FAN
 - [x] ACPI Battery
