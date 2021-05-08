@@ -15,7 +15,7 @@
 # Asus N551JK OpenCore EFI
 Big Sur - Opencore EFI for Asus N551JK 
 
-EFI for ASUS N551JK with OpenCore bootloader 0.6.6
+EFI for ASUS N551JK with OpenCore bootloader 0.6.9
 
 ![AsusN551JK](https://user-images.githubusercontent.com/74409308/102687569-4cb7c300-41f0-11eb-9504-3aea777014af.jpg)
 
