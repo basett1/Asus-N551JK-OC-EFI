@@ -136,7 +136,7 @@ Secure boot control **[DISABLED]**
 - [ ] Windows 10 boot from OpenCore
 
 # Infos
-![Info](https://user-images.githubusercontent.com/74409308/102687566-4aedff80-41f0-11eb-9ef0-f76423aff984.png)
+![Info](https://github.com/basett1/Asus-N551JK-OC-EFI/blob/main/Infos/Infos.png)
 ![DPCI MANAGER 1](https://user-images.githubusercontent.com/74409308/102687571-4de8f000-41f0-11eb-8b02-785a2f85ca3a.png)
 ![DPCI MANAGER 2](https://user-images.githubusercontent.com/74409308/102687573-4f1a1d00-41f0-11eb-93af-a1619c5932c2.png)
 - See the [IOREG](https://github.com/basett1/Asus-N551JK-OC-EFI/blob/main/Infos/ANGELO’s%20MacBook%20Pro.ioreg)
