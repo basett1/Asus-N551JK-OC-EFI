@@ -15,7 +15,7 @@
 # Asus N551JK OpenCore EFI
 Big Sur - Opencore EFI for Asus N551JK 
 
-EFI for ASUS N551JK with OpenCore bootloader 0.6.9
+EFI for ASUS N551JK with OpenCore bootloader 0.7.1
 
 ![AsusN551JK](https://user-images.githubusercontent.com/74409308/102687569-4cb7c300-41f0-11eb-9504-3aea777014af.jpg)
 
@@ -127,7 +127,7 @@ Secure boot control **[DISABLED]**
 - [x] F10 & F11 & F12 Sound Key
 - [x] Wi-Fi and Bluetooth BCM94360HMB Module
 - [x] Realtek RTL811 LAN
-- [ ] Micro SD Cardreader (USB-Internal)
+- [x] Micro SD Cardreader (USB-Internal)
 - [x] WebCam (USB-Internal)
 - [x] All Sensors CPU, IGPU, BATTERY, FAN
 - [x] ACPI Battery
