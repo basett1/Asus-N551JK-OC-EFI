@@ -1,5 +1,5 @@
 <div align="center">
-  
+
 [![](https://img.shields.io/badge/Repositories-basett1-informational?style=flat&logo=apple&logoColor=white&color=9debeb)](https://github.com/basett1?tab=repositories)
 [![](https://img.shields.io/badge/Gitter%20Ice%20Lake-Chat-informational?style=flat&logo=gitter&logoColor=white&color=ed1965)](https://gitter.im/ICE-LAKE-HACKINTOSH-DEVELOPMENT/community)
 [![](https://img.shields.io/badge/Gitter%20HL%20Community-Chat-informational?style=flat&logo=gitter&logoColor=white&color=ed1965)](https://gitter.im/Hackintosh-Life-IT/community)
@@ -13,9 +13,9 @@
 
 
 # Asus N551JK OpenCore EFI
-Big Sur - Opencore EFI for Asus N551JK 
+Big Sur - Opencore EFI for Asus N551JK
 
-EFI for ASUS N551JK with OpenCore bootloader 0.7.1
+EFI for ASUS N551JK with OpenCore bootloader 0.8.1
 
 ![AsusN551JK](https://user-images.githubusercontent.com/74409308/102687569-4cb7c300-41f0-11eb-9504-3aea777014af.jpg)
 
@@ -40,7 +40,7 @@ EFI for ASUS N551JK with OpenCore bootloader 0.7.1
 
 To disable cfg lock use the provided kit.
 
-In the folder is provided a dump of BIOS 205 version for references. 
+In the folder is provided a dump of BIOS 205 version for references.
 
 **THANKS TO [LORYS89](https://github.com/Lorys89) for the hints and the kit**
 
